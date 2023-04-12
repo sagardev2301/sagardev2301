@@ -11,12 +11,32 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **sagarkumar.dev2301@gmail.com**
-<!-- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p> -->
+<div style="text-align: center; height: 500px;">
+     
+<h3 align="left"> Connect with me: </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagardev2301" alt="sagardev2301" /></a> </p>
+<p align="left">&nbsp;
+  <a href="https://www.linkedin.com/in/sagar-kumar-26a6b0219/" target="blank">&nbsp;
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagarkumar" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/sagar__2325" target="blank">&nbsp;
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar__2325" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/gaara_2301" target="blank">&nbsp;
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gaara_2301" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/gaara_2301" target="blank">&nbsp;
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaara_2301" height="30" width="40" />
+  </a>
+</p>
+  
+</div>
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sagardev2301" alt="sagardev2301" />
+  </a>
+</p>
 
 <h3 align="left">Prgramming Languages: </h3>
 <p align = "left">
