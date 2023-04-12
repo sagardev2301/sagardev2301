@@ -94,15 +94,15 @@
   </a>  -->
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagardev2301&show_icons=true&locale=en&layout=compact" alt="sagardev2301" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagardev2301&show_icons=true&locale=en&layout=compact" alt="sagardev2301" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagardev2301&show_icons=true&locale=en" alt="sagardev2301" />
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sagardev2301&show_icons=true&locale=en" alt="sagardev2301" />
-</p>
-
-<p>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sagardev2301&" alt="sagardev2301" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sagardev2301&" alt="sagardev2301" />
 </p>
 
 <!-- 
