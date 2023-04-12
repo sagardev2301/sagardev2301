@@ -2,9 +2,10 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Sagar Kumar</h1>
 <h3 align="center">A passionate Flutter developer from India.</h3>
 
+<hr> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagardev2301&label=Profile%20views&color=0e75b6&style=flat" alt="sagardev2301" /> </p>
 
-<hr> 
+
 - 🔭 I’m currently working on [Personal Portfolio](https://github.com/sagardev2301/portfolio)
 
 - 🌱 I’m currently learning **Flutter,Node.js**
@@ -21,47 +22,48 @@
   </a>
 </p>
 
-### 🧿 Prgramming Languages and Markup Languages
-<p align = "left">
+<hr> 
+
+### 🧿 Prgramming Languages and Markup Languages :
+
+<p align = "left">&nbsp;
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+    <img src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white" alt="c" height="25"/> 
   </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+    <img src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white" height="25"/> 
   </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" height="25"/> 
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" height="25"/> 
   </a> 
+
      
 </p>
 
-### 👨‍💻 Mobile App Development and Backend Developent:
-<p align = "left">
+### 👨‍💻 Mobile App Development and Backend Developent :
+<p align = "left">&nbsp;
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" height="25"/> 
   </a> 
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white" height="25"/> 
   </a> 
    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white" height="25"/> 
   </a> 
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
-  </a> 
+<!--   <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/GraphQL?logo=graphql&logoColor=white" height="25"/> 
+  </a>  -->
    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a>
 </p> 
 
-### 🛠️ Software and tools: </h3>
-<p align = "left">
+### 🛠️ Software and tools : 
+<p align = "left">&nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
@@ -84,15 +86,13 @@
      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagardev2301&" alt="sagardev2301" />
 </table> 
 
-
-
 [![An image of @sagar__2325's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sagar__2325)](https://holopin.io/@sagar__2325)
  
 <hr>
 
 <div style="text-align: center; height: 500px;">
      
-### 📱 Connect with me 
+### 📱 Connect with me : 
 <p align="left">&nbsp;
   <a href="https://www.linkedin.com/in/sagar-kumar-26a6b0219/" target="blank">&nbsp;
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagarkumar" height="30" width="40" />
