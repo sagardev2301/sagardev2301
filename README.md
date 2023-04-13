@@ -43,7 +43,7 @@
      
 </p>
 
-### 👨‍💻 Mobile App Development and Backend Developent :
+### 👨‍💻 Mobile App Development and Backend Development :
 <p align = "left">&nbsp;
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" height="25"/> 
