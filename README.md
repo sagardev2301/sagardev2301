@@ -18,7 +18,7 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img  width = 900px; src="https://github-profile-trophy.vercel.app/?username=sagardev2301&theme=juicyfresh&no-frame=true" alt="sagardev2301" />
+    <img  width = 900px; src="https://github-profile-trophy.vercel.app/?username=sagardev2301&theme=dark_lover&no-frame=true" alt="sagardev2301" />
   </a>
 </p>
 
@@ -80,10 +80,10 @@
 
 
 <table>
-     <img align="left" src="https://github-readme-stats.vercel.app/api?username=sagardev2301&show_icons=true&locale=en" alt="sagardev2301" />
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagardev2301&show_icons=true&locale=en&layout=compact" alt="sagardev2301" />
+     <img align="left" src="https://github-readme-stats.vercel.app/api?username=sagardev2301&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true" alt="sagardev2301" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagardev2301&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="sagardev2301" />
      <br> 
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagardev2301&" alt="sagardev2301" />
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagardev2301&theme=vision-friendly-dark&hide_border=true" alt="sagardev2301" />
 </table> 
 
 [![An image of @sagar__2325's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sagar__2325)](https://holopin.io/@sagar__2325)
